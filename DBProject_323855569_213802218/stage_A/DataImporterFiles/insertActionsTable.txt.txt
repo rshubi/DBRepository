@@ -1,0 +1,4 @@
+1,deposit,50,11/January/1974
+2,deposit,100,12/January/2000
+3,deposit,20,06/July/2002
+4,deposit,340,22/May/2004

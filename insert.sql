@@ -1,0 +1,13 @@
+select * from Client;
+insert into Client values(1,'Renana','GalgalHamazalot 61,Hod Hashron','Shubi');
+insert into Client values(2,'Reut','RabiAkiva 11,Bnei Brak','Agam');
+insert into Client values(3,'Tehila','GalgalHamazalot 61,Hod Hashron','Shubi');
+select * from Worker;
+insert into Worker values(2,'Ron',DATE '2019-06-19','Teller');
+insert into Worker values(3,'Michal',DATE '2020-05-09','Manager');
+insert into Worker values(4,'Shira',DATE '2016-06-19','Teller');
+select * from Branch;
+insert into Branch values(1,'GalgalHamazalot 60,Hod Hashron','Michal');
+insert into Branch values(2,'RabiAkiva 10,Bnei Brak','Michal');
+insert into Branch values(3,'RabiAkiva 2,Bnei Brak','Michal');
+ALTER SESSION SET NLS_DATE_FORMAT = 'DD/MM/YYYY';

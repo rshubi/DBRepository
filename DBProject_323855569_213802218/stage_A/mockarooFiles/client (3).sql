@@ -1,0 +1,10 @@
+insert into client (clientId, ClientName, clientAddress, clientLastName) values (582, 'Steffane', '25 Tomscot Plaza', 'Jeffes');
+insert into client (clientId, ClientName, clientAddress, clientLastName) values (472, 'Shara', '96 Thackeray Court', 'Benninger');
+insert into client (clientId, ClientName, clientAddress, clientLastName) values (466, 'Myrtle', '948 David Terrace', 'Dentith');
+insert into client (clientId, ClientName, clientAddress, clientLastName) values (556, 'Ceil', '2 Shoshone Avenue', 'Mor');
+insert into client (clientId, ClientName, clientAddress, clientLastName) values (469, 'Skelly', '556 Arrowood Center', 'Alben');
+insert into client (clientId, ClientName, clientAddress, clientLastName) values (611, 'Kelcey', '59358 Shasta Street', 'Abraham');
+insert into client (clientId, ClientName, clientAddress, clientLastName) values (679, 'Gnni', '7 Lindbergh Terrace', 'Smidmore');
+insert into client (clientId, ClientName, clientAddress, clientLastName) values (646, 'Pascal', '33166 Golf Course Circle', 'Rawlings');
+insert into client (clientId, ClientName, clientAddress, clientLastName) values (607, 'Chucho', '4608 Farwell Park', 'Gheerhaert');
+insert into client (clientId, ClientName, clientAddress, clientLastName) values (579, 'Phedra', '99 Dapin Avenue', 'Ausher');

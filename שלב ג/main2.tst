@@ -1,5 +1,4 @@
-PL/SQL Developer Test script 3.0
-20
+
 DECLARE
   v_account_id NUMERIC := 15;  -- Example account ID
   v_client_list VARCHAR2(4000);
@@ -20,5 +19,4 @@ EXCEPTION
   WHEN OTHERS THEN
     DBMS_OUTPUT.PUT_LINE('Error: ' || SQLERRM);
 END;
-0
-0
+

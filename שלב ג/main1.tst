@@ -1,5 +1,4 @@
-PL/SQL Developer Test script 3.0
-28
+
 DECLARE
   v_branch_id NUMERIC := 65;  -- Example branch ID
   v_average_balance NUMBER;
@@ -28,5 +27,4 @@ EXCEPTION
   WHEN OTHERS THEN
     DBMS_OUTPUT.PUT_LINE('Error: ' || SQLERRM);
 END;
-0
-0
+
